@@ -1,5 +1,5 @@
 * Eyob Portfolio website
-# [Projec 1:	Built Enterprise data warehouse to migrate data based in legacy tools and application to cloud based platform for a company which provides loan to house buyers. ] (https://github.com/Ejob2021/Ejob2021.github.io/blob/main/Project%20Summary.docx)
+# [Projec 1:	Built Enterprise data warehouse to migrate data based in legacy tools and application to cloud based platform for a company which provides loan to house buyers. ](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/Project%20Summary.docx)
 
 ## The benefit of cloud-based migration is to make:
   *	Make data private and more secure
