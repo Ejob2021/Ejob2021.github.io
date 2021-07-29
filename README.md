@@ -34,4 +34,14 @@
 ##	Configured Email Script task, inside event handler, by using C#
 
   * Configured Email Script Task to send email notification on occurance of errors while execution the package.
+ 
+## Deployed SSIS Pakage to SQl Server Management Studio.
+
+  * Entire Solution deployed at Integration Service Catalog.
+  
+## Scheduled SQL Server Agent to run Master Package.
+
+ * Master Package scheduled to run on specifc time on daily basis to capture newly added data in source.
+ 
+ 
 
