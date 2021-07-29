@@ -17,9 +17,10 @@
   * Excel             -----                    EXCEL Connection 
   * Flat Files     ------                      Flat File Connection
 
-##	Transformed data into desired and consistent format. 
+##	Developed Data Transformation Workflow and converted data into desired and consistent format. 
+
  * Performed different transformation operations to aggregate, split, sort, filter, match…etc for modification and data cleaning purpose.
- * 
+ 
 
 ##	Loaded data to different targeted destination.
 
