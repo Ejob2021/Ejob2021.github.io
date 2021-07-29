@@ -48,7 +48,7 @@
 
  * Organized and consolidated data used as an input for analytical reporting and decision making.
  
-![](https://github.com/Ejob2021/Ejob2021.github.io/tree/main/images)
+![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/images/Star%20Schema.PNG)
  
  
 
