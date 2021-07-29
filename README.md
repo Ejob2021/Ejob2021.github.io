@@ -44,5 +44,9 @@
 
  * Master Package scheduled to run on specifc time on daily basis to capture newly added data in source.
  
+## Designed Data Warehouse by consolidating data integrated from different source.
+
+ * Organized and consolidated data used as an input for analytical reporting and decision making.
+ 
  
 
