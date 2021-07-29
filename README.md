@@ -44,7 +44,7 @@
 
  * Master Package scheduled to run on specifc time on daily basis to capture newly added data in source.
  
-## Designed Data Warehouse by consolidating data integrated from different source.
+## [Designed Data Warehouse by consolidating data integrated from different source.](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/Phase%20II%20Summary%20Report.docx)
 
  * Organized and consolidated data used as an input for analytical reporting and decision making.
  
