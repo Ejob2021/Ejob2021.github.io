@@ -27,7 +27,7 @@
   *	Flat File
   *	Excel Spreadsheet
 
-##	Created ETL and Error Handling Log Tables withing different packages.
+##	Created ETL and Error Handling Log Tables with in different packages.
 
   * Created and Configured  SSIS control flow to update ETL and Error Handling Log tables when  any update occures(Insertion/Deletion). 
 
