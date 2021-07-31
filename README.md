@@ -63,7 +63,7 @@
  * Tabular Model browsed and connection tested on Pivote Table Feild in Excel.
  
  
-## PHASE IV : SSRS Reporting Services.
+## [PHASE IV : SSRS Reporting Services.](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(1).png)
 
  * Installation of Report Server Configuration Manager and Service account connection.
  * Web Srevice , Web Portal configuration and access creation for end users.
@@ -71,7 +71,6 @@
  * Data Source connection using credentials
  * File Share Subscription and automate delivery of report to desired file path at specific time and in specific format.
 
- ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(1).png)
 
 ## PHASE V : Designed Dashboard based on Business requirements using Business Intelligence Tools.
  
