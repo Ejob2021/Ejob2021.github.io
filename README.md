@@ -54,7 +54,7 @@
  * Star Schema dimensional modelling adopted and fact table linked with associated demension table via foriegn Key/Primary Key relationships.
 
 
-## PHASE III : Tabular Model Developement(Concept of table,relationship and in-memory engine)
+## [PHASE III : Tabular Model Developement(Concept of table,relationship and in-memory engine](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-31.png)
 
  * Installation of Tabular model SQL Server Analysis Server(SSAS).
  * Folder Structure creation for dimension tables (Good approach to organise measures and attributes into logical grouping for easy access) .
