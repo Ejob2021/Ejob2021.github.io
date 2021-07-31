@@ -5,7 +5,7 @@
   * Empower users (By making data accessible for all skill level users)
   * To achieve faster insights.
   
- ## [PHASE I : ETL Process](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/Project%20Summary.docx)
+## [PHASE I : ETL Process](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/Project%20Summary.docx)
 
 ### Built data pipelines for optimal extraction, transformation, and loading of data from various data sources using Cloud and SQL technologies Tools.
 
