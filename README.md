@@ -73,6 +73,8 @@
  * Data Source connection using credentials
  * File Share Subscription and automate delivery of report to desired file path at specific time and in specific format.
 
+ ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(1).png)
+
 ## PHASE V : Designed Dashboard based on Business requirements using Business Intelligence Tools.
  
  
