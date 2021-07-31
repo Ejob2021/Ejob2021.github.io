@@ -53,8 +53,6 @@
  * Developed  adaptable Data Warehouse enviroment and made decesion making process rapid based on alalysis of past,present and future data.
  * Star Schema dimensional modelling adopted and fact table linked with associated demension table via foriegn Key/Primary Key relationships.
 
- 
-![](/images/Star%20Schema.PNG)
 
 ## PHASE III : Tabular Model Developement(Concept of table,relationship and in-memory engine)
 
