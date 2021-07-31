@@ -67,6 +67,11 @@
  
 ## PHASE IV : SSRS Reporting Services.
 
+ * Installation of Report Server Configuration Manager and Service account connection.
+ * Web Srevice , Web Portal configuration and access creation for end users.
+ * Deployment SSRS report to target URL Server 
+ * 
+
 ## Designed Dashboard based on Business requirements using Business Intelligence Tools.
  
  
