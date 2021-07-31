@@ -70,9 +70,10 @@
  * Installation of Report Server Configuration Manager and Service account connection.
  * Web Srevice , Web Portal configuration and access creation for end users.
  * Deployment SSRS report to target URL Server 
- * 
+ * Data Source connection using credentials
+ * File Share Subscription and automate delivery of report to desired file path at specific time and in specific format.
 
-## Designed Dashboard based on Business requirements using Business Intelligence Tools.
+## PHASE V : Designed Dashboard based on Business requirements using Business Intelligence Tools.
  
  
 
