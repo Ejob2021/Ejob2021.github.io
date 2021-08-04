@@ -89,7 +89,7 @@
  * used DAX to build complex measures.
  * Optimize model performance by removing unncessary rows and columns
  
- ### Visualize Data
+ ## Visualize Data
  
  * Created different visualization report.
  * Configure conditional formating.
