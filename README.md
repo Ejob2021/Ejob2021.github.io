@@ -73,6 +73,29 @@
 
 
 ## [PHASE V : Designed Dashboard based on Business requirements using Business Intelligence Tools.](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(3).png)
+
+### Data Preparation
+ 
+ * Get Data from different resources.
+ * Clean, transform and load data.
+ * Evaluate and transform column data types.
+
+### Data Model
+ 
+ * Design a data model.
+ * Configure table and column properties.
+ * Define approperate level of granularity.
+ * Created calculated table and column
+ * used DAX to build complex measures.
+ * Optimize model performance by removing unncessary rows and columns
+ 
+ ### Visualize Data
+ 
+ * Created different visualization report.
+ * Configure conditional formating.
+ * Enrich reports for usablity by configuring interaction between visals,adding slicers,drillthrough and drilldown
+ * Created dashboard
+  
  ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(3).png)
  
  ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(4).png)
