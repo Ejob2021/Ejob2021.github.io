@@ -91,7 +91,7 @@ Built Enterprise data warehouse to migrate data based in legacy tools and applic
  * used DAX to build complex measures.
  * Optimize model performance by removing unncessary rows and columns
  
- ### Data Visualize
+### Data Visualize
  
  * Created different visualization report.
  * Configure conditional formating.
