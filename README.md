@@ -93,7 +93,7 @@ Built Enterprise data warehouse to migrate data based in legacy tools and applic
  * Created different visualization report.
  * Configure conditional formating.
  * Enrich reports for usablity by configuring interaction between visals,adding slicers,drillthrough and drilldown
- * Created dashboard
+ * Created dashboard and added role-based row level security for different users. 
     
  ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(3).png)
  
