@@ -94,7 +94,7 @@ Built Enterprise data warehouse to migrate data based in legacy tools and applic
  * Configure conditional formating.
  * Enrich reports for usablity by configuring interaction between visals,adding slicers,drillthrough and drilldown
  * Created dashboard and formated as per required specification. 
- *  Added role-based row level security(RLS) and Object level Security (OLS) for different users
+ * Added role-based row level security(RLS) and Object level Security (OLS) for different users
     
  ![](https://github.com/Ejob2021/Ejob2021.github.io/blob/main/2021-07-30%20(3).png)
  
